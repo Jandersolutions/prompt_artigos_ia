@@ -37,3 +37,6 @@ prompt: city cyberpunk
 No maximo 5 paragrafos por bloco. use se achar necessario: marcadores, bulets, tabelas, emojis, citações, deixe o texto simples de ler com exemplos
 ### Postar o artigo com um call to action
 Ao final desse artigo crie uma call to action convidando o leitor a interagir com o texto seja como comentarios ou compartilhando com outras pessoas
+
+## ARTIGO
+O trabalho finalizado pode ser conferido na pagina de artigos da [DIO](https://web.dio.me/articles/inteligencia-fora-de-controle-o-caminho-delicado-da-regulamentacao-da-ia-em-um-mundo-em-evolucao-tecnologica?back=%2Farticles&open-modal=true&page=1&order=oldest)
