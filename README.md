@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="https://github.com/Jandersolutions/prompt_artigos_ia/blob/main/assets/banner.png">
 </p>
 
 
